@@ -1,3 +1,11 @@
+I couldn't figure out how to get the googleapi to work, so I developed an app that takes in a user input
+with react and display 10 images of that topic.
+
+Since I couldn't get the api to work I improvised to show that I at least know how to make ajax and axios
+requests with react and style them
+
+I want to improve this app by allowing users to save pics to a database!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
